@@ -37,13 +37,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependencies>
-    <dependency>
+		 <dependency>
         <groupId>org.mongodb</groupId>
         <artifactId>mongodb-driver-sync</artifactId>
         <version>5.0.1</version>
     </dependency>
-	</dependencies>
 	</dependencies>
 
 	<build>
